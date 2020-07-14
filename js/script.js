@@ -8,8 +8,8 @@ $(".changeBtn2").click(function(){
 })
 
 $(".changeBtn3").click(function(){
-    $(".thirdDiv").css("background","blue")
-    $(".thirdDiv").css("border-color", "orange")
+    $(".thirdDiv").css("background","blue");
+    $(".thirdDiv").css("border-color", "orange");
 })
 
 $(".changeAllBtn").click(function(){
